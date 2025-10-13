@@ -1,0 +1,13 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - missingno=*
+  - nbformat=*
+  - numpy=*
+  - pandas=*
+  - patsy=*
+  - plotly=*
+  - scipy=*
+  - seaborn=*
+  - statsmodels=*
